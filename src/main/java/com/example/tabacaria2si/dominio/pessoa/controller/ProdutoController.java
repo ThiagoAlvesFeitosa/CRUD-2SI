@@ -2,6 +2,7 @@ package com.example.tabacaria2si.dominio.pessoa.controller;
 
 import com.example.tabacaria2si.dominio.pessoa.entity.Produto;
 import com.example.tabacaria2si.dominio.pessoa.entity.Usuario;
+import com.example.tabacaria2si.dominio.pessoa.repository.ProdutoRepository;
 import com.example.tabacaria2si.dominio.pessoa.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
